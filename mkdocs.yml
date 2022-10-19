@@ -1,0 +1,17 @@
+site_name: 'Kiwibank Tech Docs'
+site_author: 'G'
+repo_url: https://github.com/Kiwibank/kb-backstage
+
+nav:
+  - 'index.md'
+  - 'about.md'
+
+docs_dir: ./docs
+site_dir: ./site
+dev_addr: '127.0.0.1:8000'
+
+theme:
+    name: mkdocs
+    locale: en
+    include_sidebar: false
+
