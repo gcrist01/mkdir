@@ -3,8 +3,6 @@ site_author: 'G'
 repo_url: https://github.com/Kiwibank/kb-backstage
 
 nav:
-  - 'index.md'
-  - 'about.md'
   - 'loanApplication.md'
 
 docs_dir: ./docs
